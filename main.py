@@ -10,6 +10,7 @@ import neat
 
 import pickle
 from helpers import getSensorX, getSensorY
+
 pygame.init()
 screen = pygame.display.set_mode((800,600))
 
